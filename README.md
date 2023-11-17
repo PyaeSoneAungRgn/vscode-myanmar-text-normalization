@@ -20,6 +20,22 @@ Web: [https://myanmar-text-normalization.pyaesoneaung.dev](https://myanmar-text-
 more...
 ```
 
+## Keybinding
+
+You will have to create your own keybinding.
+
+- Open `Command Palette`
+- Search `Open Keyboard Shortcuts (JSON)`
+
+```json
+[
+    {
+        "key": "cmd+m",
+        "command": "myanmarTextNormalization.normalize"
+    }
+]
+```
+
 ## Credit
 
 [ayehninnkhine/MMStringNormalizer](https://github.com/ayehninnkhine/MMStringNormalizer)
