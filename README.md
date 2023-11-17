@@ -1,6 +1,6 @@
 # Myanmar Text Normalization for VS Code
 
-Myanmar Text Normalization extension for VS Code. This extension uses the normalization function from the [MMStringNormalizer](https://github.com/ayehninnkhine/MMStringNormalizer) project.
+Myanmar Text Normalization extension for VS Code. This extension uses the normalize function from the [MMStringNormalizer](https://github.com/ayehninnkhine/MMStringNormalizer) project.
 
 VS Code: [https://marketplace.visualstudio.com/items?itemName=PyaeSoneAung.myanmar-text-normalization](https://marketplace.visualstudio.com/items?itemName=PyaeSoneAung.myanmar-text-normalization&ssr=false#overview)
 
