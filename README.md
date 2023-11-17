@@ -4,7 +4,7 @@ Myanmar Text Normalization extension for VS Code. This extension uses the normal
 
 VS Code: [https://marketplace.visualstudio.com/items?itemName=PyaeSoneAung.myanmar-text-normalization](https://marketplace.visualstudio.com/items?itemName=PyaeSoneAung.myanmar-text-normalization&ssr=false#overview)
 
-Web: [https://myanmar-text-normalization.pyaesoneaung.dev](https://myanmar-text-normalization.pyaesoneaung.dev/).
+Web: [https://myanmar-text-normalization.pyaesoneaung.dev](https://myanmar-text-normalization.pyaesoneaung.dev/)
 
 ## Usage
 
