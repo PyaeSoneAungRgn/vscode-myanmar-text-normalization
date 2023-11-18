@@ -2,7 +2,7 @@
   "name": "myanmar-text-normalization",
   "displayName": "Myanmar Text Normalization",
   "description": "Myanmar Text Normalization extension for VS Code",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.84.0"
   },
